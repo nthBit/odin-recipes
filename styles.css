@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EDF1D6;
+}
+
+h1 {
+    color: #40513B;
+    text-align: center;
+    font-size: 75px;
+    margin: 10px;
+}
+
+
+a {
+    display: block;
+    background-color: #609966;
+    color: #40513B;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 10px;
+    margin: 20px 40%;
+    width: 20%;
+}
