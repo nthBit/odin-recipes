@@ -29,7 +29,7 @@ h1 {
     width: 20%;
 }
 
-.sushi-pic {
+.pic {
     float: left;
     width: 40%;
     height: auto;
@@ -37,20 +37,20 @@ h1 {
     margin: 10px 0px 10px 10%;
 }
 
-.sushi-instructions {
+.instructions {
     float: left;
     width: 40%;
     margin: 10px 10% 10px 0px;
 }
 
-.sushi-instructions h2 {
+.instructions h2 {
     color: #40513B;
     text-align: center;
     font-size: 40px;
     margin: 10px;
 }
 
-.sushi-instructions p {
+.instructions p {
     background-color: #9DC08B;
     color: #40513B;
     text-align: center;
@@ -59,7 +59,7 @@ h1 {
     margin: 5px 25%;
     width: 50%;
 }
-.sushi-instructions ul {
+.instructions ul {
     color: #40513B;
     text-align: center;
     list-style: none;
@@ -69,7 +69,7 @@ h1 {
     width: 50%;
 }
 
-.sushi-instructions ol {
+.instructions ol {
     color: #40513B;
     text-align: center;
     font-size: 20px;
